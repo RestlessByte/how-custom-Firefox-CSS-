@@ -1,5 +1,9 @@
 - 1. Open to about:config
-- 2. Enable about:config > ```bash toolkit.legacyUserProfileCustomizations.stylesheets ``` (false = true)
+- 2. Enable about:config > ```
+  3. bash toolkit.legacyUserProfileCustomizations.stylesheets
+  4. ``` (false = true)
 - 3. Open about:profiles → «Root Directory» → button «Open Directory»
 - 4. Move root dir with custom theme 'chrome' in Root  Directory
-- 5. Move all files theme dir in . ```bash mv example_dir_theme ~/.mozilla/firefox/*.default ```
+- 5. Move all files theme dir in . ```bash
+  6.  mv example_dir_theme ~/.mozilla/firefox/*.default
+  7.  ```
