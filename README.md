@@ -1,6 +1,5 @@
 - 1. Open to about:config
-- 2. Enable about:config >    (false = true)
-- 3.
+- 2. Enable *toolkit.legacyUserProfileCustomizations.stylesheets* about:config > (false = true)
 ```bash
      toolkit.legacyUserProfileCustomizations.stylesheets
 ```
